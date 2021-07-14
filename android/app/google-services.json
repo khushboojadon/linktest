@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "93949016263",
+    "firebase_url": "https://deeplink-8aa8a.firebaseio.com",
+    "project_id": "deeplink-8aa8a",
+    "storage_bucket": "deeplink-8aa8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93949016263:android:87f00e6814ce42a53b26e2",
+        "android_client_info": {
+          "package_name": "com.hrm.linktest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93949016263-fjm9mmhg7kanpvhh8bim0q4qt90bn87t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzFujS9xO0DJ0I31_kFrSuub-SRW6x8y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93949016263-fjm9mmhg7kanpvhh8bim0q4qt90bn87t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
